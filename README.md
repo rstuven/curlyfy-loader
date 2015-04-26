@@ -3,6 +3,10 @@ curlyfy-loader
 
 > Add curly brackets to a whitespace indented module using [curlyfy](https://github.com/rstuven/curlyfy);
 
+EXPERIMENTAL: Use at your own risk!
+-----------------------------------
+
+
 Install
 -------
 
