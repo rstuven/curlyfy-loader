@@ -1,0 +1,22 @@
+{
+  "name": "curlyfy-loader",
+  "description": "curlyfy loader module for webpack",
+  "version": "1.0.2",
+  "author": {
+    "name": "Ricardo Stuven",
+    "email": "rstuven@gmail.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rstuven/curlyfy-loader.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "curlyfy": "^1.0.0",
+    "loader-utils": "^0.2.7"
+  }
+}
