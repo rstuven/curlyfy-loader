@@ -1,6 +1,8 @@
 curlyfy-loader
 ==============
 
+[![dependencies Status](https://david-dm.org/rstuven/curlyfy-loader.svg)](https://david-dm.org/rstuven/curlyfy-loader#info=dependencies)
+
 > Add curly brackets to a whitespace indented module using [curlyfy](https://github.com/rstuven/curlyfy);
 
 EXPERIMENTAL: Use at your own risk!
