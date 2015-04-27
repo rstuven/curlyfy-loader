@@ -2,9 +2,6 @@ var curlyfy = require('curlyfy');
 var loaderUtils = require('loader-utils');
 
 module.exports = function curlyfyLoader(source) {
-  var query = loaderUtils.parseQuery(this.query);
-  var options = {
-    insertSemicolons: query.insertSemicolons == 'true'
-  };
+  var options = loaderUtils.parseQuery(this.query);
   return curlyfy(source, options);
 };
