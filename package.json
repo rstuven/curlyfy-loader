@@ -16,7 +16,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "curlyfy": "^1.0.0",
-    "loader-utils": "^0.2.7"
+    "curlyfy": "1.0.0",
+    "loader-utils": "0.2.11"
   }
 }
